@@ -70,7 +70,7 @@ paper_text: |
 
   1. **Conceptual**: We define knowledge redundancy as a distinct construct from bus factor and demonstrate its theoretical relevance to OSS survival.
 
-  2. **Methodological**: We provide a complete measurement framework for computing knowledge redundancy from git commit data using Jaccard similarity, including fallback approaches when file path data are unavailable \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-1}}.
+  2. **Methodological**: We provide a complete measurement framework for computing knowledge redundancy from git commit data using Jaccard similarity, including fallback approaches when file path data are unavailable \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-1}}.
 
   3. **Empirical**: We apply our framework to 500,000 commits from 13 open-source repositories, identifying 6 founder departure events and computing pseudo-knowledge redundancy scores. While data limitations prevented statistical hypothesis testing, we report descriptive patterns and validate our approach on synthetic data [ARTIFACT:art_pOI-AO_xwHdm].
 
@@ -117,7 +117,7 @@ paper_text: |
 
   ### 3.1 Data Collection
 
-  We collected commit history data from 13 open-source repositories on GitHub, comprising 500,000 commit records (Table 1). The data were sourced from the HuggingFace dataset `AdhyanshVerma/open-github-major-repos`, which contains 2.85 million commits from 98 repositories \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/dataset-1}}.
+  We collected commit history data from 13 open-source repositories on GitHub, comprising 500,000 commit records (Table 1). The data were sourced from the HuggingFace dataset `AdhyanshVerma/open-github-major-repos`, which contains 2.85 million commits from 98 repositories \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/dataset-1}}.
 
   **Table 1: Dataset Summary**
 
@@ -147,7 +147,7 @@ paper_text: |
 
   We identified founders using two complementary methods:
 
-  1. **First commit author**: The contributor who made the first commit to the repository, identified via commit timestamp ordering \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-2}}.
+  1. **First commit author**: The contributor who made the first commit to the repository, identified via commit timestamp ordering \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-2}}.
 
   2. **Repository creator**: The owner field from GitHub API metadata (where available).
 

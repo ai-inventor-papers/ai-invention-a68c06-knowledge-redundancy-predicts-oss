@@ -32,7 +32,7 @@ Our study makes the following contributions:
 \begin{enumerate}
     \item \textbf{Conceptual}: We define knowledge redundancy as a distinct construct from bus factor and demonstrate its theoretical relevance to OSS survival.
     
-    \item \textbf{Methodological}: We provide a complete measurement framework for computing knowledge redundancy from git commit data using Jaccard similarity, including fallback approaches when file path data are unavailable \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-1}}.
+    \item \textbf{Methodological}: We provide a complete measurement framework for computing knowledge redundancy from git commit data using Jaccard similarity, including fallback approaches when file path data are unavailable \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-1}}.
     
     \item \textbf{Empirical}: We apply our framework to 500,000 commits from 13 open-source repositories, identifying 6 founder departure events and computing pseudo-knowledge redundancy scores. While data limitations prevented statistical hypothesis testing, we report descriptive patterns and validate our approach on synthetic data \cite{art_pOI-AO_xwHdm}.
     
@@ -86,7 +86,7 @@ appears to be novel. Our literature search did not identify prior work proposing
 
 \subsection{Data Collection}
 
-We collected commit history data from 13 open-source repositories on GitHub, comprising 500,000 commit records (Table \ref{tab:dataset}). The data were sourced from the HuggingFace dataset \texttt{AdhyanshVerma/open-github-major-repos}, which contains 2.85 million commits from 98 repositories \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/dataset-1}}.
+We collected commit history data from 13 open-source repositories on GitHub, comprising 500,000 commit records (Table \ref{tab:dataset}). The data were sourced from the HuggingFace dataset \texttt{AdhyanshVerma/open-github-major-repos}, which contains 2.85 million commits from 98 repositories \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/dataset-1}}.
 
 \begin{table}[!htbp]
     \centering
@@ -124,7 +124,7 @@ As a fallback, we implemented a \textit{pseudo-knowledge redundancy} measure usi
 We identified founders using two complementary methods:
 
 \begin{enumerate}
-    \item \textbf{First commit author}: The contributor who made the first commit to the repository, identified via commit timestamp ordering \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-2}}.
+    \item \textbf{First commit author}: The contributor who made the first commit to the repository, identified via commit timestamp ordering \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-2}}.
     
     \item \textbf{Repository creator}: The owner field from GitHub API metadata (where available).
 \end{enumerate}
