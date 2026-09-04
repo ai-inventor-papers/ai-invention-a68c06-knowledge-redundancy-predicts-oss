@@ -96,7 +96,7 @@ paper_text: |
 
   3. **Methodological contribution**: The knowledge redundancy metric is computable at scale, correlates appropriately with bus factor (r = -0.34, p < 0.001), and can be integrated into existing OSS sustainability dashboards.
 
-  \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-1}}
+  \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-1}}
 
   [FIGURE:fig1]
 
@@ -147,7 +147,7 @@ paper_text: |
   - Unlike Linstead et al. [9], who map knowledge networks descriptively, we use network metrics to predict survival outcomes.
   - Unlike community smells research [12], which captures negative social patterns, we quantify positive knowledge distribution structure.
 
-  \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-2/research-1}}
+  \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-2/research-1}}
 
   ## 3. Methods
 
@@ -453,7 +453,7 @@ paper_text: |
 
   ## Appendix B: Measurement Validation
 
-  Additional validation of the knowledge redundancy metric is provided in the research artifact \footnote{Code: \url{https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-2}}, including comparisons to alternative measures (weighted Jaccard, overlap coefficient, HHI index, Shannon entropy) and correlations with bus factor.
+  Additional validation of the knowledge redundancy metric is provided in the research artifact \footnote{Code: \url{https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/main/round-1/research-2}}, including comparisons to alternative measures (weighted Jaccard, overlap coefficient, HHI index, Shannon entropy) and correlations with bus factor.
 
   ## Appendix C: Cox Model Diagnostics
 

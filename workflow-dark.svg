@@ -22,7 +22,7 @@
 <g><title></title><path d="M 498.0 74.0 C 498.0 112.7, 784.0 121.3, 784.0 160.0" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title>uses: validation</title><path d="M 498.0 258.0 C 498.0 296.7, 784.0 305.3, 784.0 344.0" fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
 <g><title>extends: literature</title><path d="M 212.0 258.0 C 212.0 296.7, 498.0 305.3, 498.0 344.0" fill="none" stroke="#3b82f6" stroke-width="1.6" stroke-opacity="0.8" marker-end="url(#arrow)"/></g>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss" target="_top">
   <g class="node">
     <rect class="card" x="413.0" y="22.0" width="170" height="52" rx="26"
       fill="#161b22" stroke="#30363d" stroke-width="1" filter="url(#shadow)"/>
@@ -32,7 +32,7 @@
   </g>
 </a>
 <text x="22" y="214.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8b949e">R1</text>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-1/research-1" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-1/research-1" target="_top">
   <g class="node">
     <title>OSS Survival Literature Review: Knowledge Redundancy and Bus Factor</title>
     <rect class="card" x="86.0" y="162.0" width="252" height="96" rx="10"
@@ -47,7 +47,7 @@
       fill="#e6edf3"><tspan x="100.0" dy="0">OSS Survival Literature Review:</tspan><tspan x="100.0" dy="14">Knowledge Redundancy and Bus Factor</tspan></text>
   </g>
 </a>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-1/dataset-1" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-1/dataset-1" target="_top">
   <g class="node">
     <title>GitHub OSS founder departure survival dataset</title>
     <rect class="card" x="372.0" y="162.0" width="252" height="96" rx="10"
@@ -62,7 +62,7 @@
       fill="#e6edf3"><tspan x="386.0" dy="0">GitHub OSS founder departure survival</tspan><tspan x="386.0" dy="14">dataset</tspan></text>
   </g>
 </a>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-1/research-2" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-1/research-2" target="_top">
   <g class="node">
     <title>Knowledge redundancy measurement and survival analysis validation for OSS projects</title>
     <rect class="card" x="658.0" y="162.0" width="252" height="96" rx="10"
@@ -79,7 +79,7 @@
 </a>
 <text x="22" y="398.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8b949e">R2</text>
 <line x1="86" y1="302.0" x2="910" y2="302.0" stroke="#21262d" stroke-dasharray="3 5"/>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-2/dataset-1" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-2/dataset-1" target="_top">
   <g class="node">
     <title>GitHub OSS survival dataset search</title>
     <rect class="card" x="86.0" y="346.0" width="252" height="96" rx="10"
@@ -94,7 +94,7 @@
       fill="#e6edf3"><tspan x="100.0" dy="0">GitHub OSS survival dataset search</tspan></text>
   </g>
 </a>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-2/research-1" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-2/research-1" target="_top">
   <g class="node">
     <title>Exhaustive reference verification and novelty refinement for OSS survival literature</title>
     <rect class="card" x="372.0" y="346.0" width="252" height="96" rx="10"
@@ -109,7 +109,7 @@
       fill="#e6edf3"><tspan x="386.0" dy="0">Exhaustive reference verification and</tspan><tspan x="386.0" dy="14">novelty refinement for OSS survival</tspan><tspan x="386.0" dy="14">literature</tspan></text>
   </g>
 </a>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-2/experiment-1" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/tree/fork/run_qtJqn5LVU5LN/round-2/experiment-1" target="_top">
   <g class="node">
     <title>Cox survival analysis for OSS project survival</title>
     <rect class="card" x="658.0" y="346.0" width="252" height="96" rx="10"
@@ -124,7 +124,7 @@
       fill="#e6edf3"><tspan x="672.0" dy="0">Cox survival analysis for OSS project</tspan><tspan x="672.0" dy="14">survival</tspan></text>
   </g>
 </a>
-<a href="https://github.com/ai-inventor-outputs/ai-invention-a68c06-knowledge-redundancy-predicts-oss/blob/fork/run_qtJqn5LVU5LN/paper.pdf" target="_top">
+<a href="https://github.com/ai-inventor-papers/ai-invention-a68c06-knowledge-redundancy-predicts-oss/blob/fork/run_qtJqn5LVU5LN/paper.pdf" target="_top">
   <g class="node">
     <rect class="card" x="403.0" y="530.0" width="190" height="72" rx="10"
       fill="#161b22" stroke="#e11d48" stroke-width="1.4" filter="url(#shadow)"/>
